@@ -40,29 +40,27 @@ My current focus is blending **robust backend architecture** with **modern, intu
 ### Languages & Tools:
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-A8B9C8?style=for-the-badge&logo=c&logoColor=black)](https://cplusplus.com/doc/tutorial/introduction/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hardik2208)
 
 ## 🌐 Connect with me:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](Your_Discord_Invite_Link)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](Your_Profile_Link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourEmail@example.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hardik._.raghuvanshi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardikraghuvanshi22@gmail.com)
 
 ---
 
 ## 📊 My GitHub Activity:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true" alt="Hardik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hardik2208&show_icons=true&theme=radical&hide_border=true" alt="Hardik's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true" alt="Hardik's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik2208&layout=compact&theme=radical&hide_border=true" alt="Hardik's Top Languages" />
 </p>
 
 ---
@@ -70,7 +68,7 @@ My current focus is blending **robust backend architecture** with **modern, intu
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hardik2208&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
