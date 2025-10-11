@@ -1,6 +1,6 @@
-# Hi there! I'm Hardik Raghuvanshi 👋
+gin# Hi there! I'm Hardik Raghuvanshi 👋
 
-I'm a **19-year-old Full-Stack Developer** from Indore, India, currently pursuing a Bachelor's in Computer Science and Business Systems at IET DAVV.
+I'm a **19-year-old Full-Stack Developer** from Indore, India, currently pursuing a Bachelor's in Computer Science Engineering at IET DAVV.
 
 My current focus is blending **robust backend architecture** with **modern, intuitive UIs** to build scalable and efficient solutions. I thrive on transforming complex problems into clean, high-performance code.
 
