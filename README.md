@@ -1,4 +1,4 @@
-gin# Hi there! I'm Hardik Raghuvanshi 👋
+ Hi there! I'm Hardik Raghuvanshi 👋
 
 I'm a **Full-Stack Developer** from Indore, India, currently pursuing a Bachelor's in Computer Science Engineering at IET DAVV.
 
